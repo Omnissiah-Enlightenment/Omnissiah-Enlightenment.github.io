@@ -55,6 +55,13 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
+# Analytics
+analytics:
+  provider               : "google-gtag" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    measurement_id          : "G-GWZM3S881W"
+    anonymize_ip         : # true, false (default)
+
 author:
   name   : "Omnissiah's Enlightenment"
   avatar : "/assets/images/bio-photo.jpg"
