@@ -1,9 +1,10 @@
 title: "ROS Performance Boost, An Overview"
+last_modified_at: 2022-07-02T10:05:00+08:00
 categories:
   - Blog
 tags:
   - ROS
-  - 中文
+  - EN
   - Robot Software Framework
   - Performance Zealotry
 ---
